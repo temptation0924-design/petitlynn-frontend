@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://petitlynn.netlify.app/sitemap.xml
